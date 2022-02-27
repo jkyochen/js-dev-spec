@@ -6,7 +6,7 @@
     "formatter"
   ],
   "author": "Lanlyhs <ziqiang.chen@outlook.com>",
-  "homepage": "https://github.com/lanlyhs/js-dev-spec#readme",
+  "homepage": "https://github.com/lanlyhs/js-dev-spec/tree/main/packages/formatter-prettier-config#readme",
   "license": "ISC",
   "main": "index.js",
   "publishConfig": {
