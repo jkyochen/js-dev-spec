@@ -1,0 +1,22 @@
+{
+  "name": "@lanlyhs/formatter-prettier-config",
+  "version": "0.0.0",
+  "description": "Code Formatter By Prettier",
+  "keywords": [
+    "formatter"
+  ],
+  "author": "Lanlyhs <ziqiang.chen@outlook.com>",
+  "homepage": "https://github.com/lanlyhs/js-dev-spec#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanlyhs/js-dev-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lanlyhs/js-dev-spec/issues"
+  },
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
