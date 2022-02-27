@@ -1,6 +1,6 @@
 {
   "name": "@lanlyhs/linter-eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Code Linter By ESLint",
   "keywords": [
     "linter"
