@@ -1,4 +1,5 @@
 # JavaScript Development Code Specification
 
-[formatter-prettier-config](./packages/formatter-prettier-config/)
-[linter-eslint-config](./packages/linter-eslint-config/)
+[Formatter Prettier Config](./packages/formatter-prettier-config/)
+
+[Linter ESLint Config](./packages/linter-eslint-config/)
