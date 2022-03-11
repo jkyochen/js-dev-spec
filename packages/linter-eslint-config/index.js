@@ -9,14 +9,14 @@ module.exports = {
     ],
     "parser": "@typescript-eslint/parser",
     "rules": {
-        "eqeqeq": 2,
-        "require-await": 2,
+        "eqeqeq": "error",
+        "require-await": "error",
         "complexity": [
-            2,
+            "error",
             15
         ],
         "max-lines-per-function": [
-            2,
+            "error",
             20
         ]
     }

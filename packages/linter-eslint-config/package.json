@@ -21,7 +21,7 @@
     "url": "https://github.com/lanlyhs/js-dev-spec/issues"
   },
   "scripts": {
-    "lint": "eslint"
+    "test": "eslint -c index.js"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.12.1",
